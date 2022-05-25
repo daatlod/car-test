@@ -1,0 +1,81 @@
+{
+    "cars": [
+        {
+            "brand": "Acura",
+            "description": "The Honda Integra (Japanese: ホンダ・インテグラ, Hepburn: Honda Integura), marketed in North America as the Acura Integra, is an automobile produced by the Japanese automobile manufacturer Honda from 1985 until 2006, and then since 2021. It succeeded the Quint as a more luxurious and sport-oriented derivative of the Civic.",
+            "id": 0,
+            "model": "Acura Integra",
+            "name": "Acura Integra 1.8 Vtec",
+            "photo": "http://placeimg.com/500/500/arch",
+            "price": 1000,
+            "specifications": " marketed in North America as the Acura Integra",
+            "year": 1996
+        },
+        {
+            "brand": "Mazda",
+            "description": "Mazda Motor Corporation (Japanese: マツダ株式会社, Hepburn: Matsuda Kabushiki-gaisha) is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan.[4] In 2015, Mazda produced 1.5 million vehicles for global sales, the majority of which (nearly 1 million) were produced in the company's Japanese plants, with the remainder coming from a variety of other plants worldwide.[5] In 2015, Mazda was the fifteenth largest automaker by production worldwide.[6]",
+            "id": 1,
+            "model": "Mazda 2",
+            "name": "Mazda 2",
+            "photo": "http://placeimg.com/500/500/people",
+            "price": 1000,
+            "specifications": "Found the Mazda 2 of your dreams? Now you want to know all about it! With the help of Parkers, you can find out all of the key specs about the Mazda 2 from fuel efficiency in MPG and top speed in MPH, to running costs, dimensions, data and lots more. We have the most comprehensive specifications available online.",
+            "year": 2007
+        },
+        {
+            "brand": "Mazda",
+            "description": "From 1974 to 2015, Mazda had a partnership with the Ford Motor Company, which acquired a 24.5% stake in 1979, upped to a 33.4% ownership of Mazda in May 1995.[18] Under the administration of Alan Mulally, Ford gradually divested its stake in Mazda from 2008 to 2015, with Ford holding 2.1% of Mazda stock as of 2014[19] and severing most production as well as development ties.",
+            "id": 2,
+            "model": "Mazda 3",
+            "name": "Mazda 3",
+            "photo": "http://placeimg.com/500/500/sepia",
+            "price": 1000,
+            "specifications": "Smart City Brake Support with Pedestrian detection Lane-keep Assist System (LAS) Apple CarPlay and Android Auto",
+            "year": 2006
+        },
+        {
+            "brand": "Jeep",
+            "description": "Jeep is an American automobile marque, now owned by multi-national corporation Stellantis.[3][4] Jeep has been part of Chrysler since 1987, when Chrysler acquired the Jeep brand, along with remaining assets, from its previous owner American Motors Corporation (AMC).",
+            "id": 3,
+            "model": "Willys CJ 40",
+            "name": "Jeep Willys CJ 40",
+            "photo": "http://placeimg.com/500/500/animals",
+            "price": 900000000,
+            "specifications": "After World War II, Jeep began to experiment with new designs, including a model that could drive underwater. On February 1, 1950, contract N8ss-2660 was approved for 1,000 units especially adapted for general reconnaissance or command communications and constructed for short period underwater operation such as encountered in landing and fording operations. The engine was modified with a snorkel system so that the engine could properly breathe underwater.[35]",
+            "year": 1945
+        },
+        {
+            "brand": "Jeep",
+            "description": "Jeep's current product range consists solely of sport utility vehicles – both crossovers and fully off-road worthy SUVs and models, including one pickup truck. Previously, Jeep's range included other pick-ups, as well as small vans, and a few roadsters. Some of Jeep's vehicles—such as the Grand Cherokee—reach into the luxury SUV segment, a market segment the 1963 Wagoneer is considered to have started.[5]",
+            "id": 4,
+            "model": "Wrangler",
+            "name": "Jeep Wrangler",
+            "photo": "http://placeimg.com/500/500/greyscale",
+            "price": 1000,
+            "specifications": "From 1955 onwards Willys offered two-wheel drive versions of their CJ Jeeps for commercial use, called DJ models (for 'Dispatcher Jeep'), in both open and closed body styles. A well-known version was the right-hand drive model with sliding side-doors, used by the US Postal service.",
+            "year": 1988
+        },
+        {
+            "brand": "Renault",
+            "description": "According to the Organisation Internationale des Constructeurs d'Automobiles, in 2016 Renault was the ninth biggest automaker in the world by production volume.[11] By 2017, the Renault–Nissan–Mitsubishi Alliance had become the world's biggest seller of light vehicles.[12]",
+            "id": 5,
+            "model": "Mégane R.S.",
+            "name": "Renault Mégane R.S.",
+            "photo": "http://placeimg.com/500/500/tech",
+            "price": 5000000,
+            "specifications": "The RS uses a turbocharged 2.0-litre petrol engine that produces 225 PS (165 kW; 222 bhp), allowing the car to achieve 0–100 km/h in 6.5 seconds (0–60 mph in 6.5 seconds), with a top speed of about 240 km/h (149 mph). Ninety percent of the engine's torque is available from 2,000 rpm until redline.",
+            "year": 2000
+        },
+        {
+            "brand": "Mini",
+            "description": "El modelo más representativo es un automóvil del segmento B producido desde 2000 por BMW. Su diseño retro creado por el diseñador estadounidense Frank Stephenson está inspirado en el Mini original, que fue lanzado al mercado en 1959 por el fabricante británico British Motor Corporation.",
+            "id": 6,
+            "model": "Countryman",
+            "name": "Mini Countryman",
+            "photo": "http://placeimg.com/500/500/any",
+            "price": 1000000,
+            "specifications": "La segunda generación del Countryman se presentó en el Salón del Automóvil de Los Ángeles de 2016 y se comenzó a vender en febrero de 2017. Los motores gasolina serán un 1.5 litros tricilíndrico de 136 CV, un 2.0 litros de cuatro cilindros y 192 CV, y un 1.5 litros tricilíndrico equipado con sistema híbrido cuya potencia total es de 224 CV. En tanto, los motores Diesel serán un 1.5 litros de tres cilindros y 116 CV y un 2.0 litros de cuatro cilindros en variantes de 150 y 190 CV. Tiene más espacio que el modelo anterior. Se ofrece además en versión híbrida enchufable",
+            "year": 2014
+        }
+    ]
+}

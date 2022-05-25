@@ -1,0 +1,24 @@
+.car__banner_list{
+    width: 100%;
+}
+
+.banner__item{
+    color:#fff;
+    display: block;
+    min-height: 220px;
+    position: relative;
+    .banner__pic{
+        height: auto;
+        width: 100%;
+        z-index: 1;
+    }
+    .banner__content{
+        display: block;
+        left: 50%;
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%,-50%);
+        width: 70%;
+        z-index: 2;
+    }
+}

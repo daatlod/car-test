@@ -1,0 +1,25 @@
+<div class="px-4 py-4" >
+  <h2>Cars List</h2>
+
+  <div class="list__container d-flex align-content-around flex-wrap justify-content-around mt-4">
+    <!--list cars begin-->
+    <div class="card cars__card mb-4" *ngFor="let car of cars">
+      <img src="{{car.photo}}" class="card-img-top" >
+      <div class="card-body px-5 py-5">
+        <h3 class="card-title">
+          {{car.name}}
+        </h3>
+        <p class="card-text">
+          {{car.description | slice:0:80 }}
+        </p>
+        <a [routerLink]="['/detail/'+car.id]" class="btn btn-info">View Car</a>
+      </div>
+    </div>
+    <!-- list cars en -->
+    <ul>
+      <li *ngFor="let carros of cars | unique: 'group.brand' "></li>
+    </ul>
+    
+  </div>
+  
+</div>
